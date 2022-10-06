@@ -1,4 +1,4 @@
-package ;
+package ; //insert package name
 
 import java.util.Scanner;
 
